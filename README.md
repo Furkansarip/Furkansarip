@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm trying to be iOS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkansarip&label=Profile%20views&color=0e75b6&style=flat" alt="furkansarip" /> </p>
-
 - 🔭 I’m currently working on **iOS Projects**
 
 - 🌱 I’m currently learning **Swift**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkansarip&label=Profile%20views&color=0e75b6&style=flat" alt="furkansarip" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
