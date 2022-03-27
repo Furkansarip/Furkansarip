@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkansarip&label=Profile%20views&color=0e75b6&style=flat" alt="furkansarip" /> </p>
 
-- 🔭 I’m Computer Engineering Student **iOS & Swift Projects**
+- I’m currently working **iOS Projects**
 
 - 🌱 I’m currently learning **Swift**
 
