@@ -17,4 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkansarip&show_icons=true&locale=en&layout=compact" alt="furkansarip" /></p>
 
+<h3>My Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkansarip&show_icons=true&locale=en" alt="furkansarip" /></p>
